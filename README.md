@@ -7,10 +7,9 @@ In addition to mass spectrometry, protein sequences can also be sequenced throug
 conda create -n npspy_env python=3.12.5 -y && conda activate npspy_env
 ```
 
-2. install pytorch according to [pytorch.org](https://pytorch.org/get-started/locally/) and your system environment, such as (v2.7.0):
+2. install pytorch according to [pytorch.org](https://pytorch.org/get-started/locally/) and your system environment:
 ```
-#pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
-pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu129
+pip3 install torch torchvision
 ```
 
 3. install npspy:
