@@ -15,7 +15,7 @@ pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu12
 
 3. install npspy:
 ```
-pip install git+https://gitlab.genomics.cn/panhailin/npspy.git
+pip install git+https://github.com/BGINPS/npspy_v1.1.0.git
 ```
 
 
